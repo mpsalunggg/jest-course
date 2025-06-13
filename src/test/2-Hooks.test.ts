@@ -1,6 +1,6 @@
 import { StringUtils } from '../app/2-Hooks'
 
-fdescribe('Hooks jest test suite', () => {
+describe('Hooks jest test suite', () => {
   let sut: StringUtils
 
   // beforeAll(() => {
